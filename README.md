@@ -115,11 +115,11 @@ The dataset is now clean and ready for machine learning models, including:
 ---
 
 ## **7. Summary**
-✔ **Loaded & explored** the dataset.
-✔ **Analyzed** categorical and numerical variables.
-✔ **Handled** missing values, outliers, and class imbalance.
-✔ **Encoded & normalized** features for ML.
-✔ **Visualized** data insights with graphs.
-✔ **Prepared** dataset for machine learning models.
+- **Loaded & explored** the dataset.
+- **Analyzed** categorical and numerical variables.
+- **Handled** missing values, outliers, and class imbalance.
+- **Encoded & normalized** features for ML.
+- **Visualized** data insights with graphs.
+- **Prepared** dataset for machine learning models.
 
 ---
